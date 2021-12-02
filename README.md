@@ -1,2 +1,2 @@
 # gitskills
-hello
+hello FROM outside
